@@ -10,6 +10,11 @@ export const Box = styled.div`
   padding: 2rem;
   row-gap: 1rem;
   border-radius: 3rem;
+
+  box-shadow: 
+    0px 10px 20px 0px rgba(0,0,0,0.3), 
+    0px 5px 10px 0px rgba(0,0,0,0.05), 
+    0px 3px 6px 0px rgba(0,0,0,0.2);
 `; 
 
 export const ButtonsStyled = styled.div`

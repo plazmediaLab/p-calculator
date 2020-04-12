@@ -13,6 +13,9 @@ function App() {
             font-family: var(--font-0);
             /* color: #000; */
           }
+          #root{
+            height: 100vh;
+          }
         `}
       />
 
